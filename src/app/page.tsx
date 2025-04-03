@@ -86,7 +86,7 @@ export default function Home() {
           ref={heroRef}
           className="w-full h-screen flex items-center justify-center relative overflow-hidden bg-black"
         >
-          <img className=" absolute top-0 left-0 w-full opacity-20" src="https://i.pinimg.com/736x/96/3e/03/963e032bcf5e70a5dcc6707ecd7ca4dd.jpg" alt="" />
+          <img className=" absolute top-0 left-0 w-full opacity-50" src="https://i.pinimg.com/736x/ac/ca/1b/acca1b45ceb8da0756af2f85619861b6.jpg" alt="" />
           <div className="absolute inset-0 z-0">
             <div className="absolute inset-0 bg-gradient-to-b from-blue-900/20 to-black"></div>
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(37,99,235,0.1),transparent_70%)]"></div>
